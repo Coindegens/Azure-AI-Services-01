@@ -1,6 +1,6 @@
-# Azure AI Services Exercises
+# Azure AI Services 
 
-This repository contains two Python projects that demonstrate how to use Azure AI services to detect the language of a given text. The projects use both the SDK client and REST client approaches.
+This repository contains two methods that demonstrate how to use Azure AI services to detect the language of a given text. The projects use both the SDK client and REST client approaches.
 
 ## Projects
 
