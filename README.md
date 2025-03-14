@@ -2,6 +2,14 @@
 
 This repository contains two methods that demonstrate how to use Azure AI services to detect the language of a given text. The projects use both the SDK client and REST client approaches.
 
+## Prerequisites
+
+- Azure subscription
+- Visual Studio Code
+- Git
+- Python 3.x
+- Azure AI-Service-Reource
+
 ## Projects
 
 ### SDK Client
