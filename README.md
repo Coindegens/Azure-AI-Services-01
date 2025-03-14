@@ -53,9 +53,14 @@ The `rest-client` project uses direct HTTP requests to interact with the Text An
 
 3. Run the script:
     ```sh
-    python rest-client.py
-    ```
 
 ## Note
 
 Ensure that you replace `<your_endpoint>` and `<your_key>` with your actual Azure AI service endpoint and key. Do not share your endpoint and key publicly.# Microsoft-Azure
+
+## Contributing
+
+This repository is for learning purposes as part of Microsoft Learn modules. Please refer to Microsoft Learn for more information about contributing.
+    python rest-client.py
+    ```
+
